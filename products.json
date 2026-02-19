@@ -1,0 +1,40 @@
+{
+"metadata": {
+"email": "[23f3003555@ds.study.iitm.ac.in](mailto:23f3003555@ds.study.iitm.ac.in)",
+"version": "ba5bc9f4"
+},
+"products": [
+{"id":1,"name":"Python Basics","category":"books","price":599.99,"stock":50,"rating":4.5},
+{"id":2,"name":"Data Science Guide","category":"books","price":799.50,"stock":30,"rating":4.6},
+{"id":3,"name":"Machine Learning 101","category":"books","price":899.00,"stock":25,"rating":4.7},
+{"id":4,"name":"Linux Command Line","category":"books","price":450.75,"stock":60,"rating":4.4},
+{"id":5,"name":"Git & GitHub","category":"books","price":550.20,"stock":40,"rating":4.8},
+
+```
+{"id":6,"name":"Wireless Mouse","category":"electronics","price":699.00,"stock":120,"rating":4.2},
+{"id":7,"name":"Mechanical Keyboard","category":"electronics","price":2499.99,"stock":35,"rating":4.6},
+{"id":8,"name":"LED Monitor","category":"electronics","price":8999.00,"stock":20,"rating":4.4},
+{"id":9,"name":"USB Pendrive 64GB","category":"electronics","price":549.00,"stock":200,"rating":4.3},
+{"id":10,"name":"Bluetooth Speaker","category":"electronics","price":1599.00,"stock":80,"rating":4.5},
+
+{"id":11,"name":"Men T-Shirt","category":"clothing","price":499.99,"stock":150,"rating":4.1},
+{"id":12,"name":"Women Kurti","category":"clothing","price":899.00,"stock":70,"rating":4.3},
+{"id":13,"name":"Jeans Pant","category":"clothing","price":1299.00,"stock":55,"rating":4.4},
+{"id":14,"name":"Jacket","category":"clothing","price":1999.00,"stock":25,"rating":4.5},
+{"id":15,"name":"Sports Shoes","category":"clothing","price":2499.00,"stock":40,"rating":4.6},
+
+{"id":16,"name":"Cooking Pan","category":"home","price":799.00,"stock":90,"rating":4.2},
+{"id":17,"name":"Water Bottle","category":"home","price":299.00,"stock":200,"rating":4.1},
+{"id":18,"name":"Table Lamp","category":"home","price":699.00,"stock":65,"rating":4.3},
+{"id":19,"name":"Wall Clock","category":"home","price":499.00,"stock":85,"rating":4.0},
+{"id":20,"name":"Bedsheet","category":"home","price":1199.00,"stock":45,"rating":4.4}
+```
+
+],
+"aggregations": {
+"books": {
+"count": 5,
+"inventoryValue": 137142.68
+}
+}
+}
